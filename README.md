@@ -1,1 +1,1 @@
- [Click Here and Press Install](rfbyozane.user.js?raw=True)
+ [Click Here and Press Install](rfbyozane.js?raw=True)
