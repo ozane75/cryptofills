@@ -1,1 +1,1 @@
-<a href="https://raw.githubusercontent.com/ozane75/cryptofills/main/rfbyozane.js">Installer le script Tampermonkey</a>
+ [Click Here and Press Install](rfbyozane.user.js?raw=True)
